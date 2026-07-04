@@ -1,0 +1,20 @@
+div ul {
+    display: flex;
+    list-style: none;
+
+}
+
+div ul li a{
+     text-decoration: 20px;
+     margin-right: 30px;
+     padding: 8px;
+
+}
+
+div ul li:hover{
+    background-color: rgb(145, 156, 156);
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+}
